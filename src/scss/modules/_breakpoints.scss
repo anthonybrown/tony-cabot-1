@@ -1,0 +1,75 @@
+@media only screen and (min-width: 20em) {
+  body {
+    font-size: 1.27rem;
+    text-align: center;
+  }
+
+  .ptag {
+    font-size: 1.4rem;
+    font-weight: 900;
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 30em) {
+  body {
+    font-size: 1.27rem;
+    text-align: left;
+  }
+
+  header h1 {
+    font-size:2.3rem;
+  }
+
+  header h2.winner {
+    font-size: 2.4rem;
+  }
+
+  .ptag {
+      font-size: 1.5rem;
+      font-weight: 900;
+      text-align: center;
+    }
+
+}
+@media only screen and (min-width: 48em) {
+  body {
+    font-size: 1.27rem;
+  }
+
+  header h1 {
+    font-size: 2.8rem;
+  }
+
+  header h2.winner {
+    font-size: 3.3rem;
+  }
+
+  header h3 {
+    font-size: 2rem;
+  }
+  .ptag {
+      font-size: 2rem;
+      font-weight: 900;
+      text-align: center;
+    }
+
+}
+@media only screen and (min-width: 64em) {
+  body {
+    font-size: 1.4rem;
+  }
+    .ptag {
+      font-size: 2.3rem;
+      font-weight: 900;
+      text-align: center;
+    }
+}
+@media only screen and (min-width: 71.250em) {
+  body { font-size: 1.4rem; }
+}
+@media only screen and (min-width: 80em) {
+  body {font-size: 1.5rem; }
+}
+@media print, (-o-min-device-pixel-ratio: 5/4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+
+}
