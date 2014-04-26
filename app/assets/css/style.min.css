@@ -7168,19 +7168,19 @@ li, ul {
   font-style: normal;
 }
 ::selection {
-  background: #333;
+  background: #2b6ac3;
   color: #fff;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background: #333;
+  background: #2b6ac3;
   color: #fff;
   text-shadow: none;
 }
 
 ::-webkit-selection {
-  background: #333;
+  background: #2b6ac3;
   color: #fff;
   text-shadow: none;
 }
