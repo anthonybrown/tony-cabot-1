@@ -24,11 +24,9 @@
   "proto": true,
   "smarttabs": true,
   "globals" : {
-    "App": true,
     "alert": true,
     "jQuery": true,
     "Modernizr": true,
-    "Backbone": true,
     "_":true
   }
 }
